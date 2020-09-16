@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-image: url(work.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.nav-bar {
+  background: rgb(0, 0, 0, 0.5);
+}
+
+.nav-bar ul {
+  list-style: none;
+}
+
+.nav-bar ul li {
+  display: inline-block;
+}
